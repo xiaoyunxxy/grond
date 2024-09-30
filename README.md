@@ -16,3 +16,11 @@ An example TUAP is provided at ``` results/targeted_uap-cifar10-ResNet18-Linf-ep
 python train_backdoor.py
 ```
 A trained Grond backdoor checkpoint is provided at ```results/ResNet18-cifar10-STontuap_backdoor-lr0.01-bs128-wd0.0005-pr0.5-seed0-```
+
+
+## Acknowledge
+This repository is built upon the following repositories:
+
+https://github.com/TLMichael/Delusive-Adversary
+
+https://github.com/rkteddy/channel-Lipschitzness-based-pruning
