@@ -1,6 +1,8 @@
 Grond: A Stealthy Backdoor Attack in Model Parameter Space
 ## Environment settings
-
+```
+check requirements.txt
+```
 
 ## Generate TUAP
 ```
